@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define MAX 10
+#define MAX 50
 
 void merge(int arr[], int left, int mid, int right)
 {
@@ -51,12 +51,12 @@ void MergeSort(int arr[], int left, int right)
     }
 }
 
-void display(int *arr, int arrSize)
+void display(int arr[], int arrSize)
 {
     int i;
 
     for(i = 0; i < arrSize; ++i)
-        printf("%d ", *(arr + i));
+        printf("%d ", arr[i]);
 
     printf("\n");
 }
@@ -67,12 +67,12 @@ int main()
     int size;
     int i;
 
-    printf("Enter the size of array(max 10): ");
+    printf("Enter the size of array(max %d): ", MAX);
     scanf("%d", &size);
 
-    if(size >= 10)
+    if(size >= MAX)
     {
-        printf("\nEntered size is greater than 10\n");
+        printf("\nEntered size is greater than or equal to %d\n", MAX);
         return 0;
     }
 
