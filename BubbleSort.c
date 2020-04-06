@@ -3,7 +3,7 @@
 #define MAX 20
 
 //Optimized Bubble Sort
-void BubbleSort(int *arr, int arrSize)          
+void BubbleSort(int arr[], int arrSize)          
 {
     int i, j, check, temp;
 
@@ -12,11 +12,11 @@ void BubbleSort(int *arr, int arrSize)
         check = 0;
         
         for(j = 0; j < arrSize-i-1; ++j)
-            if(*(arr + j) > *(arr + (j + 1)))
+            if(arr[j] > arr[j + 1])
             {
-                temp = *(arr + j);
-                *(arr + j) = *(arr + (j + 1));
-                *(arr + (j + 1)) = temp;
+                temp = arr[j];
+                arr[j] = arr[j + 1];
+                arr[j + 1] = temp;
                 check = 1; 
             }
 
