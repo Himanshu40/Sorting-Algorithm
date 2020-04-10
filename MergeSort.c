@@ -51,7 +51,7 @@ void MergeSort(int arr[], int left, int right)
     }
 }
 
-void display(int arr[], int arrSize)
+void Display(int arr[], int arrSize)
 {
     int i;
 
@@ -86,7 +86,7 @@ int main()
     MergeSort(arr, 0, size - 1);
 
     printf("\nElements in ascending order:\n");
-    display(arr, size);
+    Display(arr, size);
 
     return 0;
 }

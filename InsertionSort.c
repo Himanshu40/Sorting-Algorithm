@@ -21,7 +21,7 @@ void InsertionSort(int arr[], int arrSize)
     }
 }
 
-void display(int arr[], int arrSize)
+void Display(int arr[], int arrSize)
 {
     int i;
 
@@ -56,7 +56,7 @@ int main()
     InsertionSort(arr, size);
 
     printf("\nElements in ascending order:\n");
-    display(arr, size);
+    Display(arr, size);
 
     return 0;
 }

@@ -76,7 +76,7 @@ void QSort(int arr[], int left, int right)
         InsertionSort(&arr[left], right - left + 1);
 }
 
-void display(int arr[], int arrSize)
+void Display(int arr[], int arrSize)
 {
     int i;
 
@@ -111,7 +111,7 @@ int main()
     QSort(arr, 0, size - 1);
 
     printf("\nElements in ascending order:\n");
-    display(arr, size);
+    Display(arr, size);
 
     return 0;
 }
