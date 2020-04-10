@@ -95,7 +95,7 @@ int main()
     printf("Enter the size of array(max %d): ", MAX);
     scanf("%d", &size);
 
-    if(size >= MAX)
+    if(size > MAX)
     {
         printf("\nEntered size is greater than %d\n", MAX);
         return 0;
