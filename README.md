@@ -49,7 +49,7 @@ Elements in ascending order:
 ```
 
 ## Contribute
-You are freely welcome to send me a pull request regarding typo correction, bug. Your contribution will be highly appreciable :smile::sunglasses::thumbsup:
+You are freely welcome to send me a pull request regarding typo correction, bug. Your contribution will be highly appreciable:thumbsup:
 
 ## Credits
 + Wikipedia
