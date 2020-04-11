@@ -34,7 +34,7 @@ void HeapSort(int arr[], int size)
 {
     int i;
 
-    for(i = size / 2; i >= 0; --i)
+    for(i = size / 2 - 1; i >= 0; --i)
         PercDown(arr, i, size);
     
     for(i = size - 1; i > 0; --i)
