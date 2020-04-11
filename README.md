@@ -7,7 +7,7 @@ Bubble Sort is the easiest and simple sorting algorithm that you have ever known
 
 | **Bubble Sort Performance** | **Comparisons & Swaps**            |
 | --------------------------- | :--------------------------------: |
-| Worst-Case Performance      | ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) comparisons, ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) swaps   |
+| Worst-Case Performance      | ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) comparisons, ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) swaps  |
 | Best-Case Performance       | O(n) comparisons, O(1) swaps       |
 | Average-Case Performance    | O(n^2) comparisons, O(n^2) swaps   |
 
