@@ -4,14 +4,14 @@ Welcome to Sorting Algorithm repository. This repository is a small and handful 
 
 ## Index
 
-+ [Bubble Sort]()
-+ [Heap Sort]()
-+ [Insertion Sort]()
-+ [Merge Sort]()
-+ [Quick Sort]()
-+ [Selection Sort]()
++ [Bubble Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Bubble_Sort)
++ [Heap Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Heap_Sort)
++ [Insertion Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Insertion_Sort)
++ [Merge Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Merge_Sort)
++ [Quick Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Quick_Sort)
++ [Selection Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Selection_Sort)
 
-## Getting Started :fork_and_knife:
+## Getting Started :scroll:
 
 ### 1. Fork it :fork_and_knife:
 
@@ -126,9 +126,13 @@ $ git push -u origin YourDirectoryName
 
 Voila !!! Then head towards to your repository in any browser and click on `compare and pull requests`. Then add a title & description to your pull request that explains what you have done.
 
+## Tech/Framework Used
++ [GCC](https://gcc.gnu.org/) compiler
++ [VSCODE](https://code.visualstudio.com/) (A source code editor)
+
 ## Credits
 
-+ Data Structures and Algorithm Analysis in C by Mark Allen Weiss
++ [Data Structures and Algorithm Analysis in C by Mark Allen Weiss](https://www.amazon.in/Data-Structures-Algorithm-Analysis-2e/dp/8177583581)
 + [GeeksforGeeks](https://www.geeksforgeeks.org/)
 + [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 

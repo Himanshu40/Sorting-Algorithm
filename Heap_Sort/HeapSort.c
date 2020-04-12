@@ -60,6 +60,8 @@ int main()
     int size;
     int i;
 
+    printf("\n---HEAP SORT---\n");
+
     printf("Enter the size of array(max %d): ", MAX);
     scanf("%d", &size);
 
@@ -73,9 +75,12 @@ int main()
 
     for(i = 0; i < size; ++i)
         scanf("%d", &arr[i]);
-
-    printf("\n---HEAP SORT---\n");
     
+    printf("\nElements in the array : ");
+    
+    for(i = 0; i < size; ++i)
+        printf("%d ", arr[i]);
+
     HeapSort(arr, size);
 
     printf("\nElements in ascending order:\n");

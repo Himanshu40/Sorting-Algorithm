@@ -41,6 +41,8 @@ int main()
     int size;
     int i;
 
+    printf("\n\t---BUBBLE SORT---\n");
+
     printf("Enter the size of array(max %d): ", MAX);
     scanf("%d", &size);
 
@@ -55,8 +57,11 @@ int main()
     for(i = 0; i < size; ++i)
         scanf("%d", &arr[i]);
 
-    printf("\n---BUBBLE SORT---\n");
+    printf("\nElements in the array : ");
     
+    for(i = 0; i < size; ++i)
+        printf("%d ", arr[i]);
+
     BubbleSort(arr, size);
 
     printf("\nElements in ascending order:\n");
