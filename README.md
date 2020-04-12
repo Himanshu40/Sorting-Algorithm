@@ -1,60 +1,137 @@
 # Sorting-Algorithm
 
-### [Bubble Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/BubbleSort.c)
-Bubble Sort is the easiest and simple sorting algorithm that you have ever known. Bubble sort repeatedly compares adjacent elements through the list and swaps them if any element is in wrong order.
+Welcome to Sorting Algorithm repository. This repository is a small and handful collection of all sorting algorithms that needed most. 
 
-![notFound](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif "An example of bubble sort")
+## Index
 
-| **Bubble Sort Performance** | **Comparisons & Swaps**            |
-| --------------------------- | :--------------------------------: |
-| Worst-Case Performance      | ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) comparisons, ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) swaps   |
-| Best-Case Performance       | ![O(n)](https://render.githubusercontent.com/render/math?math=O(n)) comparisons, ![O(1)](https://render.githubusercontent.com/render/math?math=O(1)) swaps       |
-| Average-Case Performance    | ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) comparisons, ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) swaps   |
++ [Bubble Sort]()
++ [Heap Sort]()
++ [Insertion Sort]()
++ [Merge Sort]()
++ [Quick Sort]()
++ [Selection Sort]()
 
-## Tech/Framework Used
-+ gcc
-+ vscode
+## Getting Started :fork_and_knife:
 
-## Tests
-Since these sorting programs are tested in *MX Linux*. So *gcc* is required to compile these programs.
-+ To compile(Here *run* is the name of executable file of *Bubble Sort*)
+### 1. Fork it :fork_and_knife:
+
+Get a fork/copy of this repository by clicking on <a href="https://github.com/Himanshu40/Sorting-Algorithm/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button.
+
+[![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/Himanshu40/Sorting-Algorithm)
+
+### 2. Clone it :busts_in_silhouette:
+
+Clone it into your local PC by using
+
+```sh
+$ git clone https://github.com/Himanshu40/Sorting-Algorithm
 ```
-h1manshu@asus:~/Sorting-Algorithm
-$ gcc -o run BubbleSort.c 
-```
-+ To run
-```
-h1manshu@asus:~/Sorting-Algorithm
-$ ./run 
-```
-+ Output of Bubble Sort
-```
-Enter the size of array(max 20): 10
 
-Enter the elements in the array: 5
-6
-3
-9
-10
-1
-2
-8
-0
-7
+> This command creates a copy of this repository in your machine.
 
----BUBBLE SORT---
+After cloning this repository, move into this repository by using
 
-Elements in ascending order:
-0 1 2 3 5 6 7 8 9 10
+```sh
+# This will change directory to Sorting-Algorithm
+$ cd Sorting-Algorithm/
 ```
+
+### 3. Setting up :arrow_up:
+
+Below are the following commands to see your *local copy* has a reference to your *forked repository* in Github :octocat:
+
+```sh
+# Here YourUserName is your Github User name
+$ git remote -v
+origin	https://github.com/YourUserName/Sorting-Algorithm.git (fetch)
+origin	https://github.com/YourUserName/Sorting-Algorithm.git (push)
+```
+
+Add reference to this repository by using
+
+```sh
+$ git remote add newBranch https://github.com/Himanshu40/Sorting-Algorithm
+```
+
+> This command adds a new remote named **newBranch**.
+
+To see the changes, run the following commands
+
+```sh
+$ git remote -v
+origin     https://github.com/YourUserName/Sorting-Algorithm.git (fetch)
+origin     https://github.com/YourUserName/Sorting-Algorithm.git (push)
+newBranch  https://github.com/Himanshu40/Sorting-Algorithm.git (fetch)
+newBranch  https://github.com/Himanshu40/Sorting-Algorithm.git (push)
+```
+
+### 4. Synchronize :recycle:
+
+Always make sure to update your local repository with this repository before making any changes.
+
+```sh
+# Fetch all remote repositories & delete any deleted remote branches
+$ git fetch --all --prune
+
+# Switch to `master` branch
+$ git checkout master
+
+# Reset local `master` branch to match `newBranch` repository's `master` branch
+$ git reset --hard newBranch/master
+
+# Push changes to your forked `Sorting-Algorithm` repository
+$ git push origin master
+```
+
+Now you are ready to start contributing and sending pull requests.
 
 ## Contribute
-You are freely welcome to send me a pull request regarding typo correction, bug. Your contribution will be highly appreciable :thumbsup:
+
+You are freely welcome to send a pull request on any sorting algorithm, typo correction, bug. Your contribution will be highly appreciable :thumbsup:. When you want to contribute to this repository then create a another branch and send a [new pull request](https://github.com/Himanshu40/Sorting-Algorithm/compare?expand=1) here.
+
+```sh
+# This will create a new branch with Branch_name & switch to YourDirectoryName
+$ git checkout -b YourDirectoryName
+```
+
+Create an another branch for contribution and use same name of branch as of Directory.
+
+To switch to any branch
+
+```sh
+# To switch from one directory to another
+$ git checkout YourDirectoryName
+```
+
+To add your changes to the branch
+
+```sh
+# To add all your files to branch YourDirectoryName
+$ git add .
+```
+
+Commit a new info or message for your changes
+
+```sh
+# This message will show in your all files that you have changed
+$ git commit -m 'message or info for your changes'
+```
+
+Push your changes to your remote repository
+
+```sh
+# To push your changes to your remote repository
+$ git push -u origin YourDirectoryName
+```
+
+Voila !!! Then head towards to your repository in any browser and click on `compare and pull requests`. Then add a title & description to your pull request that explains what you have done.
 
 ## Credits
-+ Wikipedia
-+ geeksforgeeks
+
 + Data Structures and Algorithm Analysis in C by Mark Allen Weiss
++ [GeeksforGeeks](https://www.geeksforgeeks.org/)
++ [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 
 ## License
+
 [GNU GENERAL PUBLIC LICENSE](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/LICENSE)
