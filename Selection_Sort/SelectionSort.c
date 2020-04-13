@@ -37,7 +37,7 @@ int main()
     int size;
     int i;
 
-    printf("\n---SELECTION SORT---\n");
+    printf("\n\t---SELECTION SORT---\n");
 
     printf("Enter the size of array(max %d): ", MAX);
     scanf("%d", &size);

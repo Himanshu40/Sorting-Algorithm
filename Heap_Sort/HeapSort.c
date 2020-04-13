@@ -60,7 +60,7 @@ int main()
     int size;
     int i;
 
-    printf("\n---HEAP SORT---\n");
+    printf("\n\t---HEAP SORT---\n");
 
     printf("Enter the size of array(max %d): ", MAX);
     scanf("%d", &size);

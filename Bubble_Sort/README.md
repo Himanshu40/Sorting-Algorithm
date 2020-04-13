@@ -10,30 +10,30 @@
 
 | **Bubble Sort Performance** | **Comparisons & Swaps**            |
 | --------------------------- | :--------------------------------: |
-| Worst-Case Performance      | ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) comparisons, ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) swaps   |
-| Best-Case Performance       | ![O(n)](https://render.githubusercontent.com/render/math?math=O(n)) comparisons, ![O(1)](https://render.githubusercontent.com/render/math?math=O(1)) swaps       |
-| Average-Case Performance    | ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) comparisons, ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) swaps   |
+| Worst-Case Performance      | ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) comparisons, ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) swaps |
+| Best-Case Performance       | ![O(n)](https://render.githubusercontent.com/render/math?math=O(n)) comparisons, ![O(1)](https://render.githubusercontent.com/render/math?math=O(1)) swaps |
+| Average-Case Performance    | ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) comparisons, ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) swaps |
+| Worst-Case Space Complexity | ![O(n)](https://render.githubusercontent.com/render/math?math=O(n)) total, ![O(1)](https://render.githubusercontent.com/render/math?math=O(1)) auxiliary |
 
-## Test
+### Test
 
 1. To compile(Here *run* is the name of executable file of *Bubble Sort*)
 
 ```
-h1manshu@asus:~/Sorting-Algorithm
+h1manshu@asus:~/Sorting-Algorithm/Bubble_Sort
 $ gcc -o run BubbleSort.c 
 ```
 
 2. To run
 
 ```
-h1manshu@asus:~/Sorting-Algorithm
+h1manshu@asus:~/Sorting-Algorithm/Bubble_Sort
 $ ./run 
 ```
 
 3. Output of Bubble Sort
 
 ```
-
 	---BUBBLE SORT---
 Enter the size of array(max 20): 10
 
