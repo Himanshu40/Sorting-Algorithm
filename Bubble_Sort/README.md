@@ -4,7 +4,13 @@
 
 ### EXAMPLE
 
-![notFound](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif "An example of bubble sort")
+<p align="center">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif">
+</p>
+
+<p align="center">
+Here each pair of adjacent elements is compared and the elements are swapped if they are not in order through the array.
+</p>
 
 ### COMPLEXITY
 

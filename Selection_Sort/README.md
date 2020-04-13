@@ -8,7 +8,7 @@
 ### EXAMPLE
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif">
 </p>
 
 <p align="center">
