@@ -1,5 +1,3 @@
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
 # Sorting-Algorithm
 
 Welcome to Sorting Algorithm repository. This repository is a small and handful collection of all sorting algorithms that needed most. 
@@ -17,7 +15,7 @@ Welcome to Sorting Algorithm repository. This repository is a small and handful 
 
 ### 1. Fork it :fork_and_knife:
 
-Get a fork/copy of this repository by clicking on <a class="github-button" href="https://github.com/Himanshu40/Sorting-Algorithm/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork Himanshu40/Sorting-Algorithm on GitHub">Fork</a> button.
+Get a fork/copy of this repository by clicking on <script async defer src="https://buttons.github.io/buttons.js"><a class="github-button" href="https://github.com/Himanshu40/Sorting-Algorithm/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork Himanshu40/Sorting-Algorithm on GitHub">Fork</a></script> button.
 
 [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/Himanshu40/Sorting-Algorithm)
 
