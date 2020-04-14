@@ -4,12 +4,12 @@ Welcome to Sorting Algorithm repository. This repository is a small and handful 
 
 ## Index
 
-+ [Bubble Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Bubble_Sort)
-+ [Heap Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Heap_Sort)
-+ [Insertion Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Insertion_Sort)
-+ [Merge Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Merge_Sort)
-+ [Quick Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Quick_Sort)
-+ [Selection Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Selection_Sort)
++ [Bubble Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Bubble_Sort/README.md)
++ [Heap Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Heap_Sort/README.md)
++ [Insertion Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Insertion_Sort/README.md)
++ [Merge Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Merge_Sort/README.md)
++ [Quick Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Quick_Sort/README.md)
++ [Selection Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Selection_Sort/README.md)
 
 ## Getting Started :scroll:
 

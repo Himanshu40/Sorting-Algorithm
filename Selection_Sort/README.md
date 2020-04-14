@@ -61,3 +61,7 @@ Elements in the array : 4 3 6 7 8 1 2 9 0 5
 Elements in ascending order:
 0 1 2 3 4 5 6 7 8 9 
 ```
+
+### CODE IMPLEMENTATION
+
+[SelectionSort.c](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Selection_Sort/SelectionSort.c)
