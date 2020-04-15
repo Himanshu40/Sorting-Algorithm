@@ -17,7 +17,7 @@ Welcome to Sorting Algorithm repository. This repository is a small and handful 
 
 Get a fork/copy of this repository by clicking on <a href="https://github.com/Himanshu40/Sorting-Algorithm/fork"><kbd><b>Fork</b></kbd></a> button.
 
-[![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/Himanshu40/Sorting-Algorithm/fork)
+![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/Himanshu40/Sorting-Algorithm/fork)
 
 ### 2. Clone it :busts_in_silhouette:
 
@@ -55,7 +55,7 @@ $ git remote add newBranch https://github.com/Himanshu40/Sorting-Algorithm
 
 > This command adds a new remote named **newBranch**.
 
-To see the changes, run the following commands
+To see the changes, run the following command
 
 ```sh
 $ git remote -v
