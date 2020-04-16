@@ -9,7 +9,7 @@ Welcome to Sorting Algorithm repository. This repository is a small and handful 
 + [Insertion Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Insertion_Sort/README.md)
 + [Merge Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Merge_Sort/README.md)
 + [Quick Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Quick_Sort/README.md)
-+ [Radix Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Radix/README.md)
++ [Radix Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Radix_Sort/README.md)
 + [Selection Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Selection_Sort/README.md)
 
 ## Getting Started :scroll:
@@ -135,6 +135,7 @@ Voila !!! Then head towards to your repository in any browser and click on `comp
 
 + [Data Structures and Algorithm Analysis in C by Mark Allen Weiss](https://www.amazon.in/Data-Structures-Algorithm-Analysis-2e/dp/8177583581)
 + [GeeksforGeeks](https://www.geeksforgeeks.org/)
++ [Programiz](https://www.programiz.com/)
 + [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 
 ## License
