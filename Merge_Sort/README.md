@@ -67,7 +67,6 @@ Elements in ascending order:
 16 23 28 36 39 44 45 46 47 51 57 72 77 78 80
 ```
 
-
 ### CODE IMPLEMENTATION
 
 [MergeSort.c](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Merge_Sort/MergeSort.c)
