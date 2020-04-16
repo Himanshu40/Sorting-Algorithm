@@ -68,6 +68,6 @@ Elements in ascending order:
 ```
 
 
-### CODE IMPLEMENTATIONS
+### CODE IMPLEMENTATION
 
 [MergeSort.c](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Merge_Sort/MergeSort.c)
