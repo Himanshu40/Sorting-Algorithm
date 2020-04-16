@@ -17,12 +17,12 @@ Red is current minimum. Yellow is sorted list. Blue is current item.
 
 ### COMPLEXITY
 
-| **Bubble Sort Performance** | **Comparisons & Swaps**            |
-| --------------------------- | :--------------------------------: |
-| Worst-Case Performance      | ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) comparisons, ![O(n)](https://render.githubusercontent.com/render/math?math=O(n)) swaps |
-| Best-Case Performance       | ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) comparisons, ![O(n)](https://render.githubusercontent.com/render/math?math=O(n)) swaps |
-| Average-Case Performance    | ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) comparisons, ![O(n)](https://render.githubusercontent.com/render/math?math=O(n)) swaps |
-| Worst-Case Space Complexity | ![O(1)](https://render.githubusercontent.com/render/math?math=O(1)) auxiliary |
+| **Selection Sort Performance** | **Comparisons & Swaps**            |
+| ------------------------------ | :--------------------------------: |
+| Worst-Case Performance         | ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) comparisons, ![O(n)](https://render.githubusercontent.com/render/math?math=O(n)) swaps |
+| Best-Case Performance          | ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) comparisons, ![O(n)](https://render.githubusercontent.com/render/math?math=O(n)) swaps |
+| Average-Case Performance       | ![O(n^2)](https://render.githubusercontent.com/render/math?math=O(n%5E2)) comparisons, ![O(n)](https://render.githubusercontent.com/render/math?math=O(n)) swaps |
+| Worst-Case Space Complexity    | ![O(1)](https://render.githubusercontent.com/render/math?math=O(1)) auxiliary |
 
 ### Test
 
