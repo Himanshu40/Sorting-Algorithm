@@ -17,7 +17,7 @@ int Max(int arr[], int size)
 
 void CountSort(int arr[], int size, int place)
 {
-    int i, output[size + 1], count[10] = {0};
+    int i, output[size], count[10] = {0};
 
     for(i = 0; i < size; i++)                   // Evaluate count of elements
         count[(arr[i] / place) % 10]++; 
