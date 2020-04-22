@@ -5,11 +5,11 @@ Welcome to Sorting Algorithm repository. This repository is a small and handful 
 ## Index
 
 + [Bubble Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Bubble_Sort/README.md)
-+ [Heap Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Heap_Sort/README.md)
++ [Heap Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Heap_Sort)
 + [Insertion Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Insertion_Sort/README.md)
 + [Merge Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Merge_Sort/README.md)
-+ [Quick Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Quick_Sort/README.md)
-+ [Radix Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Radix_Sort/README.md)
++ [Quick Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Quick_Sort)
++ [Radix Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Radix_Sort)
 + [Selection Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Selection_Sort/README.md)
 
 ## Getting Started :scroll:
