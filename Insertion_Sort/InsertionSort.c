@@ -4,20 +4,16 @@
 
 void InsertionSort(int arr[], int arrSize)          
 {
-    int i, j, key;
+    int i, j, temp;
 
     for(i = 1; i < arrSize; ++i)
     {
-        key = arr[i];
-        j   = i - 1;
+        temp = arr[i];
 
-        while((j >= 0) && (arr[j] > key))
-        {
-            arr[j + 1] = arr[j];
-            --j;
-        }
-
-        arr[j + 1] = key; 
+        for(j = i; j > 0 && arr[j - 1] > temp; --j)
+            arr[j] = arr[j - 1];
+        
+        arr[j] = temp;
     }
 }
 
