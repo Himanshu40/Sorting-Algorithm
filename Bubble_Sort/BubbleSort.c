@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define MAX 20
+#define MAX 30
 
 //Optimized Bubble Sort
 void BubbleSort(int arr[], int arrSize)          
