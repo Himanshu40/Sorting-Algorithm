@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 #define LeftChild( i ) (2 * ( i ) + 1)
-#define MAX 50
+#define MAX 60
 
 void Swap(int *a, int *b)
 {
