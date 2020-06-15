@@ -51,19 +51,19 @@ origin	https://github.com/YourUserName/Sorting-Algorithm.git (push)
 Add reference to this repository by using
 
 ```sh
-$ git remote add newBranch https://github.com/Himanshu40/Sorting-Algorithm
+$ git remote add main https://github.com/Himanshu40/Sorting-Algorithm
 ```
 
-> This command adds a new remote named **newBranch**.
+> This command adds a new remote named **main**.
 
 To see the changes, run the following command
 
 ```sh
 $ git remote -v
-origin     https://github.com/YourUserName/Sorting-Algorithm.git (fetch)
-origin     https://github.com/YourUserName/Sorting-Algorithm.git (push)
-newBranch  https://github.com/Himanshu40/Sorting-Algorithm.git (fetch)
-newBranch  https://github.com/Himanshu40/Sorting-Algorithm.git (push)
+main	https://github.com/Himanshu40/Sorting-Algorithm.git (fetch)
+main	https://github.com/Himanshu40/Sorting-Algorithm.git (push)
+origin  https://github.com/YourUserName/Sorting-Algorithm.git (fetch)
+origin  https://github.com/YourUserName/Sorting-Algorithm.git (push)
 ```
 
 ### 4. Synchronize :recycle:
@@ -77,8 +77,8 @@ $ git fetch --all --prune
 # Switch to `master` branch
 $ git checkout master
 
-# Reset local `master` branch to match `newBranch` repository's `master` branch
-$ git reset --hard newBranch/master
+# Reset local `master` branch to match `Main` remote repository's `master` branch
+$ git reset --hard Main/master
 
 # Push changes to your forked `Sorting-Algorithm` repository
 $ git push origin master
@@ -90,24 +90,17 @@ Now you are ready to start contributing and sending pull requests.
 
 You are freely welcome to send a pull request on any sorting algorithm, typo correction, bug. Your contribution will be highly appreciable :thumbsup:. When you want to contribute to this repository then create a another branch and send a [new pull request](https://github.com/Himanshu40/Sorting-Algorithm/compare?expand=1) here.
 
-```sh
-# This will create a new branch with Branch_name & switch to YourDirectoryName
-$ git checkout -b YourDirectoryName
-```
-
-Create an another branch for contribution and use same name of branch as of Directory.
-
-To switch to any branch
+Create an another branch for contribution.
 
 ```sh
-# To switch from one directory to another
-$ git checkout YourDirectoryName
+# This will create a new branch `test` & switch to `test` branch
+$ git checkout -b test
 ```
 
 To add your changes to the branch
 
 ```sh
-# To add all your files to branch YourDirectoryName
+# To add all your files to branch `test`
 $ git add .
 ```
 
