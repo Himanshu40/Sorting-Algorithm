@@ -77,8 +77,8 @@ $ git fetch --all --prune
 # Switch to `master` branch
 $ git checkout master
 
-# Reset local `master` branch to match `Main` remote repository's `master` branch
-$ git reset --hard Main/master
+# Reset local `master` branch to match `main` remote repository's `master` branch
+$ git reset --hard main/master
 
 # Push changes to your forked `Sorting-Algorithm` repository
 $ git push origin master
