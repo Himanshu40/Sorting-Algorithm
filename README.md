@@ -115,7 +115,7 @@ Push your changes to your remote repository
 
 ```sh
 # To push your changes to your remote repository
-$ git push -u origin YourDirectoryName
+$ git push -u origin test
 ```
 
 Voila !!! Then head towards to your repository in any browser and click on `compare and pull requests`. Then add a title & description to your pull request that explains what you have done.
