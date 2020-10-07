@@ -23,6 +23,8 @@ Here each pair of adjacent elements is compared and the elements are swapped if 
 
 ### Test
 
+##### C
+
 1. To compile(Here *run* is the name of executable file of *Bubble Sort*)
 
 ```
@@ -57,6 +59,44 @@ Enter the elements in the array: 5
 Elements in the array : 5 6 3 9 10 1 2 8 0 7 
 Elements in ascending order:
 0 1 2 3 5 6 7 8 9 10
+```
+
+##### JAVA
+
+1. To Compile
+
+```
+asus@LAPTOP-GOS5S0I0 MINGW64
+$ javac Main.java
+```
+
+2. To run
+
+```
+asus@LAPTOP-GOS5S0I0 MINGW64
+$ java Main
+```
+
+3.  Output of Bubble Sort
+
+```
+        ---BUBBLE SORT---
+Enter the size of array = 10
+Enter elements -
+1 : 33
+2 : 66
+3 : 55
+4 : 44
+5 : 8
+6 : 6
+7 : 99
+8 : 55
+9 : 33
+10 : 11
+Elements in the array :
+33  66  55  44  8  6  99  55  33  11
+Elements in ascending order :
+6  8  11  33  33  44  55  55  66  99
 ```
 
 ### CODE IMPLEMENTATION
