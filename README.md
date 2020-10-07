@@ -114,7 +114,7 @@ $ git commit -m 'message or info for your changes'
 Push your changes to your remote repository
 
 ```sh
-# To push your changes to your remote repository
+# To push your changes to your remote repository in test branch
 $ git push -u origin test
 ```
 
