@@ -98,7 +98,3 @@ Elements in the array :
 Elements in ascending order :
 6  8  11  33  33  44  55  55  66  99
 ```
-
-### CODE IMPLEMENTATION
-
-[BubbleSort.c](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Bubble_Sort/BubbleSort.c)
