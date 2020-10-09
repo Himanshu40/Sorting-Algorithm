@@ -16,7 +16,6 @@ int partition (int arr[], int low, int high)  //this function takes the last ele
   
     for (int j = low; j <= high - 1; j++)  
     {  
-        //i++;
         if (arr[j] <=pivot)  
         {  
             i++; 
