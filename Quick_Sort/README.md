@@ -26,8 +26,10 @@
 **Step 7** − if both step 5 and step 6 does not match swap left and right\
 **Step 8** − if left ≥ right, the point where they met is new pivot\
 
- ### Time complexity:
- **BEST CASE**: Ω(nlog(n))\
- **AVERAGE CASE**: θ(nlog(n))\
- **WORST CASE**: O(n*n)
+ ### Time complexity for quick sort:
+ |**BEST CASE**| **AVERAGE CASE**  |**WORST CASE**|
+ |:-----------:|:-----------------:|:------------:|
+ | Ω(nlog(n))  | θ(nlog(n))        | O(n*n)       |
+
+ 
  ### SPACE COMPLEXITY: O(n) 
