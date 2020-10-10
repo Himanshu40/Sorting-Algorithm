@@ -29,5 +29,5 @@
  ### Time complexity:
  **BEST CASE**: Ω(nlog(n))\
  **AVERAGE CASE**: θ(nlog(n))\
- **WORST CASE**: O(n*n)\
+ **WORST CASE**: O(n*n)
  ### SPACE COMPLEXITY: O(n) 
