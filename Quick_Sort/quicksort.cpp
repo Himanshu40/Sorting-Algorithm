@@ -23,6 +23,7 @@ int partition (int arr[], int low, int high)  //this function takes the last ele
         }  
     }  
     swap(&arr[i + 1], &arr[high]);  
+
     return (i + 1);  
 }  
   
