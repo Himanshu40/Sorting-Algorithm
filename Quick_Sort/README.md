@@ -1,4 +1,4 @@
-## Quick Sort
+### Quick Sort
 
 [Quick Sort](https://en.wikipedia.org/wiki/Quicksort) is based on [Divide-and-conquer algorithm](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm) where it selects a *pivot* element from the array and then partition the other elements into two sub-arrays according to whether they are less than or greater than the pivot. The sub-arrays are then sorted recursively. This can be done in-place, requiring small additional amounts of memory to perform the sorting.
 
