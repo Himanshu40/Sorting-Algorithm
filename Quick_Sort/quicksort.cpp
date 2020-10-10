@@ -32,7 +32,6 @@ void quickSort(int arr[], int low, int high)  //this fucntion implements the qui
 {  
     if (low >= high)  
         return;
-     
        
         int pi = partition(arr, low, high);           
         quickSort(arr, low, pi - 1);  
