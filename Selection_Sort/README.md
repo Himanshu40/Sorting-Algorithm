@@ -80,7 +80,7 @@ asus@LAPTOP-GOS5S0I0 MINGW64
 $ java Main
 ```
 
-3.  Output of Bubble Sort
+3.  Output of Selection Sort
 ```
         ---SELECTION SORT---
 Enter the size of array = 10
