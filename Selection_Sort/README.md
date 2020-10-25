@@ -26,6 +26,8 @@ Red is current minimum. Yellow is sorted list. Blue is current item.
 
 ### Test
 
+##### C
+
 1. To compile(Here *run* is the name of executable file of *Selection Sort*)
 
 ```
@@ -61,6 +63,44 @@ Elements in the array : 4 3 6 7 8 1 2 9 0 5
 Elements in ascending order:
 0 1 2 3 4 5 6 7 8 9 
 ```
+
+##### JAVA
+
+1. To Compile
+
+```
+asus@LAPTOP-GOS5S0I0 MINGW64 
+$ javac Main.java
+```
+
+2. To run
+
+```
+asus@LAPTOP-GOS5S0I0 MINGW64 
+$ java Main
+```
+
+3.  Output of Selection Sort
+```
+        ---SELECTION SORT---
+Enter the size of array = 10
+Enter elements -
+1 : 11
+2 : 55
+3 : 66
+4 : 44
+5 : 88
+6 : 44
+7 : 66
+8 : 22
+9 : 33
+10 : 77
+Elements in the array :
+11  55  66  44  88  44  66  22  33  77
+Elements in ascending order :
+11  22  33  44  44  55  66  66  77  88
+```
+
 
 ### CODE IMPLEMENTATION
 
