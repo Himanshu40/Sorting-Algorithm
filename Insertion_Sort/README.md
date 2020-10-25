@@ -23,6 +23,8 @@ The partial sorted list (black) initially contains only the first element in the
 
 ### Test
 
+##### C
+
 1. To compile(Here *run* is the name of executable file of *Insertion Sort*)
 
 ```
@@ -59,6 +61,45 @@ Elements in the array : 21 34 11 9 56 32 78 31 27 15 23
 Elements in ascending order:
 9 11 15 21 23 27 31 32 34 56 78
 ```
+
+##### JAVA
+
+1. To Compile
+
+```
+asus@LAPTOP-GOS5S0I0 MINGW64 
+$ javac Main.java
+```
+
+2. To run
+
+```
+asus@LAPTOP-GOS5S0I0 MINGW64 
+$ java Main
+```
+
+3. Output of Insertion Sort
+
+```
+        ---INSERTION SORT---
+Enter the size of array = 10
+Enter elements -
+1 : 11
+2 : 55
+3 : 44
+4 : 22
+5 : 77
+6 : 11
+7 : 11
+8 : 88
+9 : 44
+10 : 33
+Elements in the array :
+11  55  44  22  77  11  11  88  44  33
+Elements in ascending order :
+11  11  11  22  33  44  44  55  77  88
+```
+
 
 ### CODE IMPLEMENTATION
 
