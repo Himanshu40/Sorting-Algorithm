@@ -1,7 +1,9 @@
 /*Implementation of Bucket sort (for double in range: 0 <= A[i] < 1) via queue in C*/
 #include <stdio.h>
 #include <stdlib.h>
+
 #define MAX_BUCKETS 10
+
 typedef double TYPE;
 typedef struct node_st { 
 	TYPE inf;
@@ -21,7 +23,7 @@ void bucket_sort(TYPE [], int);
 void insertion_sort(TYPE a[], int length);
 void print_array(TYPE [], int);
 
-int main(){
+int main() {
 	puts("-----Bucket Sort-----");
 	TYPE a[] = {0.78, 0.17, 0.39, 0.26, 0.72, 0.94, 0.21, 0.12, 0.23, 0.68};
 	int length = sizeof(a) / sizeof(TYPE);
@@ -36,7 +38,7 @@ int main(){
 	return EXIT_SUCCESS;
 }
 
-void bucket_sort(TYPE a[], int length){
+void bucket_sort(TYPE a[], int length) {
 	int i, j;
 	QUEUE buckets[MAX_BUCKETS];
 	
@@ -59,11 +61,12 @@ void bucket_sort(TYPE a[], int length){
 			a[j++] = temp[k];
 		}
 	}
-	
 }
+
 void insertion_sort(TYPE a[], int length) {
 	int i, j;
 	TYPE temp;
+	
 	for(i = 1; i < length; i++) {
 		temp = a[i];
 		j = i;
@@ -74,9 +77,11 @@ void insertion_sort(TYPE a[], int length) {
 		a[j] = temp;
 	}
 }
+
 void init_queue(QUEUE *pque){
 	pque->pbegin = pque->pend = NULL;
-} 
+}
+
 NODE *make_node(TYPE inf){
 	NODE *pnew = malloc(sizeof(NODE));
 	if(pnew == NULL){
@@ -87,6 +92,7 @@ NODE *make_node(TYPE inf){
 	pnew->pnext = NULL;
 	return pnew;
 }
+
 void inqueue(QUEUE *pque, TYPE inf){
 	NODE *pnew = make_node(inf);
 	
@@ -99,6 +105,7 @@ void inqueue(QUEUE *pque, TYPE inf){
 		pque->pend = pnew;
 	}
 }
+
 TYPE dequeue(QUEUE *pque) {
 	NODE *ptemp = pque->pbegin;	
 	if(ptemp == NULL) {
@@ -118,11 +125,13 @@ TYPE dequeue(QUEUE *pque) {
 	return x;
 	
 }
+
 /*returns 1 if it is and 0 if it isn't*/
 int is_empty(QUEUE pque) {
 	if(pque.pbegin == NULL) return 1;
 	else return 0;
 }
+
 void print_array(TYPE a[], int length){
 	int i = 0;
 	putchar('[');
