@@ -65,17 +65,17 @@ Always make sure to update your local repository with this repository before mak
 # Fetch all remote repositories
 $ git fetch --all
 
-# Switch to `main` branch
-$ git checkout main
+# Switch to `master` branch
+$ git checkout master
 
-# Reset local `main` branch to match `src` remote repository's `main` branch
-$ git reset --hard src/main
+# Reset local `master` branch to match `src` remote repository's `master` branch
+$ git reset --hard src/master
 
 # Push changes to your forked `Sorting-Algorithm` repository
-$ git push origin main
+$ git push origin master
 ```
 
-Now you are ready to start contributing and sending pull requests.
+Now you are ready to start contributing and sending pull requests. See [contributing guide](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/CONTRIBUTING.md).
 
 ## Credits
 
