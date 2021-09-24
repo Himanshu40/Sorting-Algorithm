@@ -39,29 +39,20 @@ $ cd Sorting-Algorithm/
 
 ### 3. Setting up :arrow_up:
 
-Below are the following commands to see your *local copy* has a reference to your *forked repository* in Github :octocat:
-
-```sh
-# Here YourUserName is your Github User name
-$ git remote -v
-origin	https://github.com/YourUserName/Sorting-Algorithm.git (fetch)
-origin	https://github.com/YourUserName/Sorting-Algorithm.git (push)
-```
-
 Add reference to this repository by using
 
 ```sh
-$ git remote add main https://github.com/Himanshu40/Sorting-Algorithm
+$ git remote add src https://github.com/Himanshu40/Sorting-Algorithm
 ```
 
-> This command adds a new remote named **main**.
+> This command adds a new remote named **src**.
 
 To see the changes, run the following command
 
 ```sh
 $ git remote -v
-main	https://github.com/Himanshu40/Sorting-Algorithm.git (fetch)
-main	https://github.com/Himanshu40/Sorting-Algorithm.git (push)
+src	    https://github.com/Himanshu40/Sorting-Algorithm.git (fetch)
+src	    https://github.com/Himanshu40/Sorting-Algorithm.git (push)
 origin  https://github.com/YourUserName/Sorting-Algorithm.git (fetch)
 origin  https://github.com/YourUserName/Sorting-Algorithm.git (push)
 ```
@@ -71,58 +62,20 @@ origin  https://github.com/YourUserName/Sorting-Algorithm.git (push)
 Always make sure to update your local repository with this repository before making any changes.
 
 ```sh
-# Fetch all remote repositories & delete any deleted remote branches
-$ git fetch --all --prune
+# Fetch all remote repositories
+$ git fetch --all
 
-# Switch to `master` branch
-$ git checkout master
+# Switch to `main` branch
+$ git checkout main
 
-# Reset local `master` branch to match `main` remote repository's `master` branch
-$ git reset --hard main/master
+# Reset local `main` branch to match `src` remote repository's `main` branch
+$ git reset --hard src/main
 
 # Push changes to your forked `Sorting-Algorithm` repository
-$ git push origin master
+$ git push origin main
 ```
 
 Now you are ready to start contributing and sending pull requests.
-
-## Contribute
-
-You are freely welcome to send a pull request on any sorting algorithm, typo correction, bug. Your contribution will be highly appreciable :thumbsup:. When you want to contribute to this repository then create a another branch and send a [new pull request](https://github.com/Himanshu40/Sorting-Algorithm/compare?expand=1) here.
-
-Create an another branch for contribution.
-
-```sh
-# This will create a new branch `test` & switch to `test` branch
-$ git checkout -b test
-```
-
-To add your changes to the branch
-
-```sh
-# To add all your files to branch `test`
-$ git add .
-```
-
-Commit a new info or message for your changes
-
-```sh
-# This message will show in your all files that you have changed
-$ git commit -m 'message or info for your changes'
-```
-
-Push your changes to your remote repository
-
-```sh
-# To push your changes to your remote repository in test branch
-$ git push -u origin test
-```
-
-Voila !!! Then head towards to your repository in any browser and click on `compare and pull requests`. Then add a title & description to your pull request that explains what you have done.
-
-## Tech/Framework Used
-+ [GCC](https://gcc.gnu.org/) compiler
-+ [VSCODE](https://code.visualstudio.com/) (A source code editor)
 
 ## Credits
 
@@ -133,4 +86,4 @@ Voila !!! Then head towards to your repository in any browser and click on `comp
 
 ## License
 
-[GNU GENERAL PUBLIC LICENSE](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/LICENSE)
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
