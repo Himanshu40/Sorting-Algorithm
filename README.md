@@ -5,6 +5,7 @@ Welcome to Sorting Algorithm repository. This repository is a small and handful 
 ## Index
 
 + [Bubble Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Bubble_Sort/README.md)
++ [Bucket Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Bucket_Sort/README.md)
 + [Heap Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Heap_Sort)
 + [Insertion Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Insertion_Sort/README.md)
 + [Merge Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Merge_Sort/README.md)
