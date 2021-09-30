@@ -1,6 +1,7 @@
 ### BUCKET SORT
 
-[Bucket Sort](https://en.wikipedia.org/wiki/Bucket_sort) is a sorting algorithm that works by distributing the elements of an array into a number of buckets. Each bucket is then sorted individually, either using a different sorting algorithm, or by recursively applying the bucket sorting algorithm.
++ [Bucket Sort](https://en.wikipedia.org/wiki/Bucket_sort) is a sorting algorithm that works by distributing the elements of an array into a number of buckets.
++ Each bucket is then sorted individually, either using a different sorting algorithm, or by recursively applying the bucket sorting algorithm.
 ### EXAMPLE
 
 <p align="center">
@@ -13,11 +14,11 @@ Bucket sort is mainly useful when input is uniformly distributed over a range.
 
 ### COMPLEXITY
 ```
-    Time complexity: O(n + k)
-    Space Complexity: O(n + k)
-    Worst case: O(n²)
-    Best Case: O(n + k)
-    Average Case: O(n + n²/k + k), O(n) when k = Θ(n)
+Time complexity:    O(n + k)
+Space Complexity:   O(n + k)
+Worst case:         O(n²)
+Best Case:          O(n + k)
+Average Case:       O(n + n²/k + k), O(n) when k = Θ(n)
 ```
 
 ### Test
