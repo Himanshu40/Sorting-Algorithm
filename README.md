@@ -4,7 +4,7 @@ Welcome to Sorting Algorithm repository. This repository is a small and handful 
 
 ## Stars
 
-If you like this repository, you can bookmark this repo by hitting <a class="github-button" href="https://github.com/Himanshu40/Sorting-Algorithm" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Himanshu40/Sorting-Algorithm on GitHub">Star</a> button above. This helps github search algorithm to show this repo to others.
+If you like this repository, you can bookmark this repo by hitting <a class="github-button" href="https://github.com/Himanshu40/Sorting-Algorithm" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Himanshu40/Sorting-Algorithm on GitHub"><kbd><b>Star</b></kbd></a> button above. This helps github search algorithm to show this repo to others.
 
 ## Index
 
