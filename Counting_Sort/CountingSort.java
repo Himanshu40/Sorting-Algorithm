@@ -50,19 +50,7 @@ class Main
             }
         }
         System.out.println();
+
+        sc.close();
     }
-
-    // Testcase 1 : 
-    // 7
-    // 1 4 1 2 5 7 2
-    
-    // Ouput : 
-    // 1 1 2 2 4 5 7
-
-    // Testcase 2 : 
-    // 8
-    // -10 5 3 0 -5 -3 -1 0
-
-    // Output : 
-    // -10 -5 -3 -1 0 0 3 5
 }
