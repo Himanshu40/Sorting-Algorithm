@@ -60,3 +60,9 @@ Elements in the array : 11 44 55 22 44 55 77 11 55 77
 Elements in ascending order:
 11 11 22 44 44 55 55 55 77 77 
 ```
+
+### CODE IMPLEMENTATION
+
+##### C
+
+[QuickSort.c](https://github.com/Ank1taS/Sorting-Algorithm/blob/master/Quick_Sort/QuickSort.c)
