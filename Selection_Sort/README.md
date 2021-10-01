@@ -101,7 +101,53 @@ Elements in ascending order :
 11  22  33  44  44  55  66  66  77  88
 ```
 
+##### C++
+
+1. To Compile
+
+```
+ank1taS@mx:~/Desktop/Sorting-Algorithm/Selection_Sort
+$ g++ SelectionSort.cpp -o run
+```
+
+2. To run
+
+```
+ank1taS@mx:~/Desktop/Sorting-Algorithm/Selection_Sort
+$ ./run
+```
+
+3.  Output of Selection Sort
+```
+	---SELECTION SORT---
+Enter size :10
+Enter the elements in the array: 11
+Enter the elements in the array: 55
+Enter the elements in the array: 66
+Enter the elements in the array: 44
+Enter the elements in the array: 88
+Enter the elements in the array: 44
+Enter the elements in the array: 66
+Enter the elements in the array: 22
+Enter the elements in the array: 33
+Enter the elements in the array: 77
+Elements in the array : 
+11 55 66 44 88 44 66 22 33 77 
+Elements in ascending order
+11 22 33 44 44 55 66 66 77 88 
+```
+
 
 ### CODE IMPLEMENTATION
 
+##### C
+
 [SelectionSort.c](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Selection_Sort/SelectionSort.c)
+
+##### Java
+
+[Main.java](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Selection_Sort/Main.java)
+
+##### C++
+
+[SelectionSort.cpp](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Selection_Sort/SelectionSort.cpp)
