@@ -1,8 +1,8 @@
 /*Implementation of Cyclic sort in C++. Works only with integers*/
 
 #include <iostream>
-using namespace std;
- 
+
+using namespace std; 
 
 void swapping(int &a, int &b) {     //swap the content of a and b
    int temp;
@@ -72,5 +72,6 @@ int main()
    cycleSort(arr, n);
    cout << "Array after Sorting: ";
    display(arr, n);
+
    return 0;
 }

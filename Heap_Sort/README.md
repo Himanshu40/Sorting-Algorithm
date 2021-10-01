@@ -5,7 +5,7 @@ heapsort is a comparison-based sorting algorithm. Heapsort can be thought of as 
 <p align="center">
 	<img src="https://en.wikipedia.org/wiki/Heapsort#/media/File:Sorting_heapsort_anim.gif">
 </p>
-http://en.wikipedia.org/wiki/Heapsort
+
 |                             |                            |
 | --------------------------- | -------------------------- |
 | Worst case performance      | O(n log n)                 |

@@ -16,9 +16,13 @@ def bubbleSort(arr):
  
 # Driver code to test above
 arr = [64, 34, 25, 12, 22, 11, 90]
- 
+
+print ("Unsorted array is:")
+for i in range(len(arr)):
+    print ("% d" % arr[i]),
+
 bubbleSort(arr)
  
-print ("Sorted array is:")
+print ("\nSorted array is:")
 for i in range(len(arr)):
     print ("% d" % arr[i]),
