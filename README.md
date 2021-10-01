@@ -1,17 +1,19 @@
 # Sorting-Algorithm
 
-Welcome to Sorting Algorithm repository. This repository is a small and handful collection of all sorting algorithms that needed most. 
+Welcome to Sorting Algorithm repository. This repository is a small and handful collection of all sorting algorithms that needed most.
 
 ## Index
 
-+ [Bubble Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Bubble_Sort/README.md)
-+ [Bucket Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Bucket_Sort/README.md)
-+ [Heap Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Heap_Sort)
-+ [Insertion Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Insertion_Sort/README.md)
-+ [Merge Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Merge_Sort/README.md)
-+ [Quick Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Quick_Sort)
-+ [Radix Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Radix_Sort)
-+ [Selection Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Selection_Sort/README.md)
+- [Bubble Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Bubble_Sort/README.md)
+- [Bucket Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Bucket_Sort/README.md)
+- [Counting Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Counting_Sort)
+- [Heap Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Heap_Sort)
+- [Insertion Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Insertion_Sort/README.md)
+- [Merge Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Merge_Sort/README.md)
+- [Pigeonhole Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/pigeonhole_Sort)
+- [Quick Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Quick_Sort)
+- [Radix Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Radix_Sort)
+- [Selection Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Selection_Sort/README.md)
 
 ## Getting Started :scroll:
 
@@ -80,10 +82,10 @@ Now you are ready to start contributing and sending pull requests. See [contribu
 
 ## Credits
 
-+ [Data Structures and Algorithm Analysis in C by Mark Allen Weiss](https://www.amazon.in/Data-Structures-Algorithm-Analysis-2e/dp/8177583581)
-+ [GeeksforGeeks](https://www.geeksforgeeks.org/)
-+ [Programiz](https://www.programiz.com/)
-+ [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+- [Data Structures and Algorithm Analysis in C by Mark Allen Weiss](https://www.amazon.in/Data-Structures-Algorithm-Analysis-2e/dp/8177583581)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [Programiz](https://www.programiz.com/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 
 ## License
 
