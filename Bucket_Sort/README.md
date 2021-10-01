@@ -5,7 +5,7 @@
 ### EXAMPLE
 
 <p align="center">
-	<img src="How_to_Bucket_Sort.gif ">
+	<img src="How_to_Bucket_Sort.gif">
 </p>
 
 <p align="center">
