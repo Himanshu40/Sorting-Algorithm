@@ -17,27 +17,27 @@ First divide the list into the smallest unit (1 element), then compare each elem
 
 ### COMPLEXITY
 
-| **Merge Sort Performance**  | **Comparisons & Swaps**            |
-| --------------------------- | :--------------------------------: |
-| Worst-Case Performance      | ![O(n log n)](https://render.githubusercontent.com/render/math?math=O(n%20log%20n)) |
-| Best-Case Performance       | ![O(n log n)](https://render.githubusercontent.com/render/math?math=O(n%20log%20n)) typical, ![O(n)](https://render.githubusercontent.com/render/math?math=O(n)) natural variant |
-| Average-Case Performace     | ![O(n log n)](https://render.githubusercontent.com/render/math?math=O(n%20log%20n)) |
-| Worst-Case Space Complexity | ![O(n)](https://render.githubusercontent.com/render/math?math=O(n)) total with ![O(n)](https://render.githubusercontent.com/render/math?math=O(n)) auxiliary, ![O(1)](https://render.githubusercontent.com/render/math?math=O(1)) auxiliary with linked lists |
+| **Merge Sort Performance**  |                                                                                                                       **Comparisons & Swaps**                                                                                                                       |
+| --------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Worst-Case Performance      |                                                                                        ![O(n log n)](<https://render.githubusercontent.com/render/math?math=O(n%20log%20n)>)                                                                                        |
+| Best-Case Performance       |                                        ![O(n log n)](<https://render.githubusercontent.com/render/math?math=O(n%20log%20n)>) typical, ![O(n)](<https://render.githubusercontent.com/render/math?math=O(n)>) natural variant                                         |
+| Average-Case Performace     |                                                                                        ![O(n log n)](<https://render.githubusercontent.com/render/math?math=O(n%20log%20n)>)                                                                                        |
+| Worst-Case Space Complexity | ![O(n)](<https://render.githubusercontent.com/render/math?math=O(n)>) total with ![O(n)](<https://render.githubusercontent.com/render/math?math=O(n)>) auxiliary, ![O(1)](<https://render.githubusercontent.com/render/math?math=O(1)>) auxiliary with linked lists |
 
 ### Test
 
-1. To compile(Here *run* is the name of executable file of *Merge Sort*)
+1. To compile(Here _run_ is the name of executable file of _Merge Sort_)
 
 ```
 h1manshu@asus:~/Sorting-Algorithm/Merge_Sort
-$ gcc -o run MergeSort.c 
+$ gcc -o run MergeSort.c
 ```
 
 2. To run
 
 ```
 h1manshu@asus:~/Sorting-Algorithm/Merge_Sort
-$ ./run 
+$ ./run
 ```
 
 3. Output of Merge Sort
@@ -62,11 +62,66 @@ Enter the elements in the array: 78
 47
 57
 
-Elements in the array : 78 36 45 72 16 28 39 46 51 44 77 23 80 47 57 
+Elements in the array : 78 36 45 72 16 28 39 46 51 44 77 23 80 47 57
 Elements in ascending order:
 16 23 28 36 39 44 45 46 47 51 57 72 77 78 80
+```
+
+##### C++
+
+1. To Compile
+
+```
+ank1taS@mx:~/Desktop/Sorting-Algorithm/Merge_Sort
+$ g++ MergeSort.cpp -o run
+```
+
+2. To run
+
+```
+ank1taS@mx:~/Desktop/Sorting-Algorithm/Merge_Sort
+$ ./run
+```
+
+3.  Output of Selection Sort
+
+```
+	---Merge Sort---
+Enter the number of elements: 7
+Enter elements : 99 1 334 -9 4 3 12
+Array before Sorting:  99 1 334 -9 4 3 12
+Array after Sorting : -9 1 3 4 12 99 334
+```
+
+##### JAVA
+
+1. To Compile
+
+```
+asus@LAPTOP-GOS5S0I0 MINGW64
+$ javac MergeSort.java
+```
+
+2. To run
+
+```
+asus@LAPTOP-GOS5S0I0 MINGW64
+$ java MergeSort
+```
+
+3.  Output of Merge Sort
+
+```
+        ---Merge SORT---
+Enter the number of elements: 7
+Enter elements : 90 -3 89 2 1 3 44
+Array before sort: 90 -3 89 2 1 3 44
+Array after sort: -3 1 2 3 44 89 90
+
 ```
 
 ### CODE IMPLEMENTATION
 
 [MergeSort.c](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Merge_Sort/MergeSort.c)
+[MergeSort.cpp](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Merge_Sort/MergeSort.cpp)
+[MergeSort.java](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Merge_Sort/MergeSort.java)
