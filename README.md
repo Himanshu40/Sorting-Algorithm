@@ -2,12 +2,16 @@
 
 Welcome to Sorting Algorithm repository. This repository is a small and handful collection of all sorting algorithms that needed most.
 
+## Stars
+
+If you like this repository, you can bookmark this repo by hitting <a class="github-button" href="https://github.com/Himanshu40/Sorting-Algorithm" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Himanshu40/Sorting-Algorithm on GitHub">Star</a> button above. This helps github search algorithm to show this repo to others.
+
 ## Index
 
 - [Bubble Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Bubble_Sort/README.md)
 - [Bucket Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Bucket_Sort/README.md)
 - [Counting Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Counting_Sort)
-- [Cyclic Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Cyclic%20Sort)
+- [Cyclic Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Cyclic_Sort)
 - [Heap Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Heap_Sort)
 - [Insertion Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Insertion_Sort/README.md)
 - [Merge Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Merge_Sort/README.md)
