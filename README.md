@@ -6,6 +6,14 @@ Welcome to Sorting Algorithm repository. This repository is a small and handful 
 
 If you like this repository, you can bookmark this repo by hitting <a class="github-button" href="https://github.com/Himanshu40/Sorting-Algorithm" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Himanshu40/Sorting-Algorithm on GitHub"><kbd><b>Star</b></kbd></a> button above. This helps github search algorithm to show this repo to others.
 
+
+
+## Top-Contributors
+
+<img src="https://contrib.rocks/image?repo=mrb1nary/Sorting-Algorithm" />
+
+
+
 ## Index
 
 - [Bubble Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Bubble_Sort/README.md)
@@ -91,7 +99,7 @@ Now you are ready to start contributing and sending pull requests. See [contribu
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [Programiz](https://www.programiz.com/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
-
+- [LeetCode](https://leetcode.com)
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
