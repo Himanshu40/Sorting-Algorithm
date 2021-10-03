@@ -44,8 +44,6 @@ Clone it into your local PC by using
 git clone https://github.com/Himanshu40/Sorting-Algorithm
 ```
 
-> This command creates a copy of this repository in your machine.
-
 After cloning this repository, move into this repository by using
 
 ```sh
@@ -59,8 +57,6 @@ Add reference to this repository by using
 ```git
 git remote add src https://github.com/Himanshu40/Sorting-Algorithm
 ```
-
-> This command adds a new remote named **src**.
 
 To see the changes, run the following command
 
