@@ -27,6 +27,8 @@ If you like this repository, you can bookmark this repo by hitting <a class="git
 - [Quick Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Quick_Sort)
 - [Radix Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Radix_Sort)
 - [Selection Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Selection_Sort/README.md)
+- [Shell Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Shell_sort/ShellSort.cpp)
+- [Stalin Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Stalin_Sort/StalinSort.py)
 
 ## Getting Started :scroll:
 
