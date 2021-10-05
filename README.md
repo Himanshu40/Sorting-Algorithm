@@ -29,6 +29,7 @@ If you like this repository, you can bookmark this repo by hitting <a class="git
 - [Selection Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Selection_Sort/README.md)
 - [Shell Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Shell_sort/ShellSort.cpp)
 - [Stalin Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Stalin_Sort/StalinSort.py)
+- [Binary Insertion Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/master/Binary_Insertion_Sort)
 
 ## Getting Started :scroll:
 
