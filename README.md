@@ -6,6 +6,14 @@ Welcome to Sorting Algorithm repository. This repository is a small and handful 
 
 If you like this repository, you can bookmark this repo by hitting <a class="github-button" href="https://github.com/Himanshu40/Sorting-Algorithm" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Himanshu40/Sorting-Algorithm on GitHub"><kbd><b>Star</b></kbd></a> button above. This helps github search algorithm to show this repo to others.
 
+
+
+## Top-Contributors
+
+<img src="https://contrib.rocks/image?repo=mrb1nary/Sorting-Algorithm" />
+
+
+
 ## Index
 
 - [Bubble Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Bubble_Sort/README.md)
@@ -19,6 +27,8 @@ If you like this repository, you can bookmark this repo by hitting <a class="git
 - [Quick Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Quick_Sort)
 - [Radix Sort](https://github.com/Himanshu40/Sorting-Algorithm/tree/master/Radix_Sort)
 - [Selection Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Selection_Sort/README.md)
+- [Shell Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Shell_sort/ShellSort.cpp)
+- [Stalin Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Stalin_Sort/StalinSort.py)
 
 ## Getting Started :scroll:
 
@@ -32,58 +42,69 @@ Get a fork/copy of this repository by clicking on <a href="https://github.com/Hi
 
 Clone it into your local PC by using
 
-```sh
-$ git clone https://github.com/Himanshu40/Sorting-Algorithm
+```git
+git clone https://github.com/Himanshu40/Sorting-Algorithm
 ```
-
-> This command creates a copy of this repository in your machine.
 
 After cloning this repository, move into this repository by using
 
 ```sh
-# This will change directory to Sorting-Algorithm
-$ cd Sorting-Algorithm/
+cd Sorting-Algorithm/
 ```
 
 ### 3. Setting up :arrow_up:
 
 Add reference to this repository by using
 
-```sh
-$ git remote add src https://github.com/Himanshu40/Sorting-Algorithm
+```git
+git remote add src https://github.com/Himanshu40/Sorting-Algorithm
 ```
-
-> This command adds a new remote named **src**.
 
 To see the changes, run the following command
 
-```sh
-$ git remote -v
-src	    https://github.com/Himanshu40/Sorting-Algorithm.git (fetch)
-src	    https://github.com/Himanshu40/Sorting-Algorithm.git (push)
-origin  https://github.com/YourUserName/Sorting-Algorithm.git (fetch)
-origin  https://github.com/YourUserName/Sorting-Algorithm.git (push)
+```git
+git remote -v
 ```
 
 ### 4. Synchronize :recycle:
 
 Always make sure to update your local repository with this repository before making any changes.
 
-```sh
-# Fetch all remote repositories
-$ git fetch --all
+```git
+git fetch --all
+```
 
-# Switch to `master` branch
-$ git checkout master
+Switch to `master` branch
 
-# Reset local `master` branch to match `src` remote repository's `master` branch
-$ git reset --hard src/master
+```git
+git checkout master
+```
 
-# Push changes to your forked `Sorting-Algorithm` repository
-$ git push origin master
+Merge all the remote commits to your `master` branch
+
+```git
+git merge
+```
+
+Push changes to your forked `Sorting-Algorithm` repository
+
+```git
+git push origin master
 ```
 
 Now you are ready to start contributing and sending pull requests. See [contributing guide](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/CONTRIBUTING.md).
+
+
+## Languages Used
+
+
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+
+
+
 
 ## Credits
 
@@ -91,7 +112,7 @@ Now you are ready to start contributing and sending pull requests. See [contribu
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [Programiz](https://www.programiz.com/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
-
+- [LeetCode](https://leetcode.com)
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

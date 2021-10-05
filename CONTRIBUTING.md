@@ -4,30 +4,35 @@ You are freely welcome to send a pull request on any sorting algorithm, typo cor
 
 Create an another branch for contribution.
 
-```sh
-# This will create a new branch `test` & switch to `test` branch
-$ git checkout -b test
+```git
+git checkout -b beta
 ```
 
 To add your changes to the branch
 
-```sh
-# To add all your files to branch `test`
-$ git add .
+```git
+git add .
 ```
 
 Commit a new info or message for your changes
 
-```sh
-# This message will show in your all files that you have changed
-$ git commit -m 'message or info for your changes'
+```git
+git commit -m 'message or info for your changes'
 ```
 
 Push your changes to your remote repository
 
-```sh
-# To push your changes to your remote repository in test branch
-$ git push origin test
+```git
+git push origin beta
 ```
 
 Then head towards to your repository in any browser and click on `compare and pull requests`. Then add a title & description to your pull request that explains what you have done.
+## Sync of new branch
+
+Sync your `beta` with `master`
+
+After sync your `master` with your remote repo by fetching upstream with this repo then you can switch to `beta` and merge it.
+
+```
+git merge master
+```

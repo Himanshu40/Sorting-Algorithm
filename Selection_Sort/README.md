@@ -146,7 +146,7 @@ Elements in ascending order
 
 ##### Java
 
-[Main.java](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Selection_Sort/Main.java)
+[SelectionSort.java](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Selection_Sort/SelectionSort.java)
 
 ##### C++
 
