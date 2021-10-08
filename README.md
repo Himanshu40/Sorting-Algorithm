@@ -44,8 +44,9 @@ Get a fork/copy of this repository by clicking on <a href="https://github.com/Hi
 Clone it into your local PC by using
 
 ```git
-git clone https://github.com/Himanshu40/Sorting-Algorithm
+git clone https://github.com/YourUsername/Sorting-Algorithm
 ```
+> where `YourUsername` is your GitHub username
 
 After cloning this repository, move into this repository by using
 
