@@ -10,13 +10,13 @@ void variationStalinsort(vector<int> arr)
 	{
 		int moved = 0;
 		
-		for(int i = 0;
-				i < (arr.size() - 1 - j); i++)
+		for(int i = 0; i < (arr.size() - 1 - j); i++)
 		{
 			if (arr[i] > arr[i + 1])
 			{
 				vector<int>::iterator index;
 				int temp;
+				
 				index = arr.begin() + i + 1;
 				temp = arr[i + 1];
 				arr.erase(index);
@@ -32,6 +32,7 @@ void variationStalinsort(vector<int> arr)
 			break;
 		}
 	}
+	
 	for(int i = 0; i < arr.size(); i++)
 	{
 		cout << arr[i] << ", ";
@@ -42,7 +43,7 @@ void variationStalinsort(vector<int> arr)
 int main()
 {
 	vector<int> arr = { 2, 1, 4, 3, 6,
-						5, 8, 7, 10, 9 };
+			    5, 8, 7, 10, 9 };
 	
 	// Function call
 	variationStalinsort(arr);
