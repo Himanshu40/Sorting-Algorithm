@@ -6,14 +6,6 @@ Welcome to Sorting Algorithm repository. This repository is a small and handful 
 
 If you like this repository, you can bookmark this repo by hitting <a class="github-button" href="https://github.com/Himanshu40/Sorting-Algorithm" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Himanshu40/Sorting-Algorithm on GitHub"><kbd><b>Star</b></kbd></a> button above. This helps github search algorithm to show this repo to others.
 
-
-
-## Top-Contributors
-
-<img src="https://contrib.rocks/image?repo=mrb1nary/Sorting-Algorithm" />
-
-
-
 ## Index
 
 - [Bubble Sort](https://github.com/Himanshu40/Sorting-Algorithm/blob/master/Bubble_Sort/README.md)
@@ -36,13 +28,11 @@ If you like this repository, you can bookmark this repo by hitting <a class="git
 
 ### 1. Fork it :fork_and_knife:
 
-Get a fork/copy of this repository by clicking on <a href="https://github.com/Himanshu40/Sorting-Algorithm/fork"><kbd><b>Fork</b></kbd></a> button.
-
-[![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/Himanshu40/Sorting-Algorithm/fork)
-
+Get a fork/copy of this repository by clicking on <a href="https://github.com/Himanshu40/Sorting-Algorithm/fork"><kbd><b>Fork</b></kbd></a> 
 ### 2. Clone it :busts_in_silhouette:
 
 Clone it into your local PC by using
+
 
 ```git
 git clone https://github.com/YourUsername/Sorting-Algorithm
